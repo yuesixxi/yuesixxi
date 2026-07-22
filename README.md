@@ -123,9 +123,9 @@
 <!-- Blogs List -->
 # :orange_book: Latest Blog Posts ... | ᐕ)⁾⁾ ? :cactus:
 <!-- BLOG-POST-LIST:START -->
-🐋 Currently working on deep learning and data analyse. And my field is bioinfomatics and biomedical engineering.  
-🌱 Also do webpage stuffs like Web Full Stack Development.   
-🎮 Going to develop a 2d pixel mini-game.  
+🐋 Currently working on AI in bioinfomatics and biomedical engineering.  
+🌱 Web Full Stack Developmenting   
+🎮 2d pixel mini-game
 <!-- BLOG-POST-LIST:END -->
 
 
