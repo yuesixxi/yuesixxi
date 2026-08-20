@@ -123,7 +123,7 @@
 <!-- Blogs List -->
 # :orange_book: Latest Blog Posts ... | ᐕ)⁾⁾ ? :cactus:
 <!-- BLOG-POST-LIST:START -->
-🐋 Currently working on AI in bioinfomatics and biomedical engineering.  
+🐋 AI in bioinfomatics and biomedical engineering.  
 🌱 Web Full Stack Developmenting   
 🎮 2d pixel mini-game
 <!-- BLOG-POST-LIST:END -->
